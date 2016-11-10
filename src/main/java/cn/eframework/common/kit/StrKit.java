@@ -5,6 +5,6 @@ package cn.eframework.common.kit;
  */
 public class StrKit {
     public static void cs(String a){
-        System.out.print("csss");
+        System.out.print("cssscs444");
     }
 }
